@@ -1,4 +1,4 @@
-# Rest API of react native app https://github.com/Fymidc/memorizeRN
+# Rest API of Memorize app https://github.com/Fymidc/memorizeRN
 
 -postgresql
 -jpa
